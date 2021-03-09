@@ -11,4 +11,4 @@ https://drive.google.com/file/d/1ElCJvnEvhtIxZkyEzVUAFPJAMgyBXo57/view?usp=shari
 Read the tutorial here:
 https://bogdanrazvan.medium.com/emotion-classification-and-face-detection-using-arkit-and-coreml-6f4582363e7d
 
-![Demo](https://media.giphy.com/media/lN1AbdZdWfo5sQoWHt/source.gif)
+![](https://github.com/bogdan-razvan/ARKit-CoreML-Emotion-Classification/blob/main/ARKit-CoreML-Emotion-Classification/ARKit-CoreML-Emotion-Classification/demo.gif)
