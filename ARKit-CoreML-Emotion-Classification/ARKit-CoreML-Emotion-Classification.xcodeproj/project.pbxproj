@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		AB76A43825F79EDB007350DA /* demo.gif in Resources */ = {isa = PBXBuildFile; fileRef = AB76A43725F79EDB007350DA /* demo.gif */; };
 		AB8F1DDB25EC199700C56F6B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB8F1DDA25EC199700C56F6B /* AppDelegate.swift */; };
 		AB8F1DDD25EC199700C56F6B /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB8F1DDC25EC199700C56F6B /* SceneDelegate.swift */; };
 		AB8F1DDF25EC199700C56F6B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB8F1DDE25EC199700C56F6B /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		AB76A43725F79EDB007350DA /* demo.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = demo.gif; sourceTree = "<group>"; };
 		AB8F1DD725EC199700C56F6B /* ARKit-CoreML-Emotion-Classification.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "ARKit-CoreML-Emotion-Classification.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		AB8F1DDA25EC199700C56F6B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		AB8F1DDC25EC199700C56F6B /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -66,6 +68,7 @@
 				AB8F1DE525EC199800C56F6B /* LaunchScreen.storyboard */,
 				AB8FB5E725F53788008678DB /* CNNEmotions.mlmodel */,
 				AB8F1DE825EC199800C56F6B /* Info.plist */,
+				AB76A43725F79EDB007350DA /* demo.gif */,
 			);
 			path = "ARKit-CoreML-Emotion-Classification";
 			sourceTree = "<group>";
@@ -127,6 +130,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AB76A43825F79EDB007350DA /* demo.gif in Resources */,
 				AB8F1DE725EC199800C56F6B /* LaunchScreen.storyboard in Resources */,
 				AB8F1DE425EC199800C56F6B /* Assets.xcassets in Resources */,
 				AB8F1DE225EC199700C56F6B /* Main.storyboard in Resources */,
