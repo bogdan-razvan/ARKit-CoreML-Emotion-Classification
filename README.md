@@ -6,3 +6,7 @@ https://drive.google.com/file/d/1ElCJvnEvhtIxZkyEzVUAFPJAMgyBXo57/view?usp=shari
 
 
 [Paper](https://talhassner.github.io/home/publication/2015_ICMI)
+
+
+Read the tutorial here:
+https://bogdanrazvan.medium.com/emotion-classification-and-face-detection-using-arkit-and-coreml-6f4582363e7d
